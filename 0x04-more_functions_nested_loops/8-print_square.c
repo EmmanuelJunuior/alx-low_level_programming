@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_square - prints a square of size 'size' with '#' characteers
- * @n: number of times charater should be printed
+ * @size: size of the square to print
  */
 void print_square(int size)
 {
