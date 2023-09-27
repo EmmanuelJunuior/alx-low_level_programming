@@ -24,7 +24,7 @@ int _sqrt_recursion(int n)
  *
  * Return: result of natural root
  */
-int actual_sqrt_recursion(int i, int n)
+int actual_sqrt_recursion(int n, int i)
 {
 	if (i * i > n)
 	{
